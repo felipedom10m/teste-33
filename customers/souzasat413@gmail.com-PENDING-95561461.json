@@ -1,0 +1,14 @@
+{
+  "email": "souzasat413@gmail.com",
+  "nome": "Cesar Sousa",
+  "cpf": "027.462.948-85",
+  "selectedUpsells": [
+    1
+  ],
+  "transactionId": 95561461,
+  "timestamp": "2025-08-29T14:39:13.143Z",
+  "productInfo": {
+    "name": "teste-33",
+    "repositoryUrl": "https://github.com/felipedom10m/teste-33"
+  }
+}
